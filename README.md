@@ -8,8 +8,12 @@ A robust, but easy to use template for React Slideshow Components
 
 [LICENSE](.github/LICENSE.md)
 
+```python
+def person = 'Ray'
+```
+
 ## Subheadline
-A robust, but **bold** to use *template* for React Slideshow Components
+A robust, but **bold** to use *template* for React `Slideshow` Components
 
 1. Number One
 1. Number Two
